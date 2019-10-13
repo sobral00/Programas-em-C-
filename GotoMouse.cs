@@ -1,5 +1,7 @@
-//Script para movimento com mouse e animações de personagem no meu projeto da unity.
-
+/*Script para movimento com mouse e animações de personagem no meu projeto da unity.
+Autor: Yuri Sobral.
+Data:13/10/2019
+*/
 using UnityEngine;
 using System.Collections;
 
