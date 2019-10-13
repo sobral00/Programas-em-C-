@@ -1,3 +1,5 @@
+//Script para movimento com mouse e animações de personagem no meu projeto da unity.
+
 using UnityEngine;
 using System.Collections;
 
