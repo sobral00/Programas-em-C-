@@ -7,15 +7,6 @@ public class warp : MonoBehaviour
     public GameObject Portal;
     public GameObject Player;
      
-    void Start()
-    {
-
-    }
-    
-    void Update()
-    {
-
-    }
     public void OnTriggerEnter2D(Collider2D other)
     {
         if(other.gameObject.tag == "Player")
